@@ -1,7 +1,7 @@
 # Hi there, I'm Iman Mombo! 👋🏾
 
 ## About Me
-I'm an aspiring software engineer transitioning from a career in teaching to a dynamic journey in tech. Passionate about coding, cybersecurity principles, and creating meaningful solutions, I'm actively developing my skills to build user-centric applications that make a difference in people's lives.
+I'm an aspiring software engineer transitioning from a career in teaching middle school math to a dynamic journey in tech. Passionate about coding, cybersecurity principles, and creating meaningful solutions, I'm actively developing my skills to build user-centric applications that make a difference in people's lives.
 
 ## What I Do
 - 🌟 **Balancing roles**: I’m currently navigating substitute teaching, school, an apprenticeship, and part-time mentorahip, all while honing my software engineering skills.
